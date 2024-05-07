@@ -1,4 +1,4 @@
-# Hi i'm <code>Kamil</code>
+# <p align="center">Hi i'm <code>Kamil</code></p>
 
 💻Trying to become a frontend developer</br>
 👨‍🎓 Studying Computer Science in Engineering at AGH University of Science and Technology</br>
